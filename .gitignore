@@ -1,0 +1,9 @@
+# Ignore Node modules
+node_modules
+
+# Ignore build directories
+build
+output
+
+# Environment variables
+.env
