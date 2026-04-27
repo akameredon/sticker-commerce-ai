@@ -1,1 +1,1 @@
-{"private": false, "workspaces": {"apps/*": "*", "packages/*": "*"}}
+{"name":"sticker-commerce-ai","version":"1.0.0","private":true,"workspaces":["apps/*","packages/*"]}
